@@ -12,4 +12,6 @@ Also configure the *database.php* file with yours DB info.
 <hr/>
 As main objects I decided to use database, group, project but not student, since I believed that it is not optimal to store it in memory as an object, so all the processes with students are through database interactions.
 <hr/>
+
+
 Since this is my first little project with PHP or with Web Applications in general, I would love to hear Your feedback on my project :)
