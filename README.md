@@ -5,7 +5,7 @@ After its creation the creator can add/delete students and assign them to a grou
 
 <hr/>
 
-For the system I mostly used **PHP/MySQL** and it need to be run under an app like **MAMP/WAMP/XAMP**
+For the system I mostly used **PHP/MySQL** and it need to be run under an app like **MAMP/WAMP/XAMP**.
 If you use one of the app above be aware to clone the repo under your htdocs folder for have access through the localhost or configure your virtualhost and hosts file accordingly to your needs
 
 Also configure the *database.php* file with yours DB info.
