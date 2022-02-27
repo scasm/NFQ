@@ -8,6 +8,7 @@ After its creation the creator can add/delete students and assign them to a grou
 For the system I mostly used **PHP/MySQL** and it need to be run under an app like **MAMP/WAMP/XAMP**.
 If you use one of the app above be aware to clone the repo under your htdocs folder for have access through the localhost or configure your virtualhost and hosts file accordingly to your needs
 
+There is a script named *nfq.sql* for the database scheme.  
 Also configure the *database.php* file with yours DB info.
 <hr/>
 As main objects I decided to use database, group, project but not student, since I believed that it is not optimal to store it in memory as an object, so all the processes with students are through database interactions.
